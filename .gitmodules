@@ -1,0 +1,3 @@
+[submodule "api6-front"]
+	path = api6-front
+	url = https://github.com/GroupHextech/api6-front
