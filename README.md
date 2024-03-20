@@ -40,7 +40,7 @@
                                 <th><a href="https://github.com/AugustoTSantos"><img src="https://avatars.githubusercontent.com/u/77200265?v=4" width="75px" height="75px"/></a></th>
                         </tr>
                         <tr>
-                                <th><a href="https://www.linkedin.com/in/augusto-torres-7919881b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
+                                <th><a href="https://www.linkedin.com/in/devgilbertosantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
                                 <th><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
                                 <th><a href="https://www.linkedin.com/in/michelrubens"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
                                 <th><a href="https://www.linkedin.com/in/patricksouzza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
