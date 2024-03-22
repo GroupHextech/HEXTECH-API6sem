@@ -1,3 +1,6 @@
 [submodule "api6-front"]
 	path = api6-front
 	url = https://github.com/GroupHextech/api6-front
+[submodule "api6-back"]
+	path = api6-back
+	url = https://github.com/GroupHextech/api6-back.git
