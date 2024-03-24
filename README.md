@@ -2,9 +2,9 @@
 
 # Index
 
-- [About](#about)
-- [Product Backlog](#product-backlog)
-- [Team](#team)
+- [Index 📎](#index)
+- [Product Backlog](#product-backlog-)
+- [Team](#team-)
 
 # About
 
@@ -15,10 +15,10 @@
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
 <p align="center">
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint1.PNG" width="450"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint2.PNG" width="450"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint3.PNG" width="450"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint4.PNG" width="450"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint1.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint2.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint3.PNG" width="400"/>
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint4.PNG" width="400"/>
 
         
 # Team 👩‍💻
