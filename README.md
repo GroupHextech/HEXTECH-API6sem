@@ -19,8 +19,16 @@ It was decided that the project would be divided into 4 deliveries, throughout t
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint2.PNG" width="400"/>
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint3.PNG" width="400"/>
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint4.PNG" width="400"/>
-
         
+# Schedule 🗓
+| *Sprints*  | *Date* | *README*  |
+| ---------- | -------------- | ------ | 
+|  Kick-Off  | 11/03 to 24/03 | *N/A* | 
+|  Sprint 1  | 25/03 to 14/04 | [View]() |
+|  Sprint 2  | 15/04 to 05/05 | [View]() | 
+|  Sprint 3  | 06/06 to 26/05 | [View]() | 
+|  Sprint 4  | 27/05 to 16/06 | [View]() |
+
 # Team 👩‍💻
 <body>
         <div align="center">
