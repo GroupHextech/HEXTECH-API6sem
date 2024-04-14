@@ -35,7 +35,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
 
 
-## <p align="center"> Utilized Technologies 📉
+## Utilized Technologies 📉
 <details>
 <summary>Back</summary>
 <br>
