@@ -28,5 +28,5 @@
 <p align="justify"> In this first sprint we where abel to deliver all we promisse, but while reseraching we realized more tasks would have to be made  </p>
 
 <p align="center">
-        <img src="" height="350">
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/brundownSprint1.png" height="350">
 </p>
