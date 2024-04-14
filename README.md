@@ -5,10 +5,15 @@
 - [Index 📎](#index)
 - [Product Backlog](#product-backlog-)
 - [Team](#team-)
+- [Utilized Technologies](#utilized-technologies-)
 
-# About
+# Problem
 
-🚧
+<p>In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
+
+# Solution
+
+<p>We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
 # Product Backlog 📍
 
@@ -29,7 +34,43 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 |  Sprint 3  | 06/05 to 26/05 | [View]() | 
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
 
-# Team 👩‍💻
+
+## <p align="center"> Utilized Technologies 📉
+<details>
+<summary>Back</summary>
+<br>
+
+- [Python](https://www.python.org/)
+- [Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
+</details>
+
+<details>
+<summary>Front</summary>
+<br>
+
+- [React](https://react.dev/)
+</details>
+
+<details>
+<summary>Data Base</summary>
+<br>
+
+- [MongoDB](https://www.mongodb.com/pt-br/)
+- [Mongo Atlas](https://www.mongodb.com/pt-br/atlas/database)
+- [Compass](https://www.mongodb.com/products/tools/compass)
+</details>
+
+<details>
+<summary>Others</summary>
+<br>
+
+- [GitHub](https://github.com/)
+- [Git](https://github.com/)
+- [Discord](https://discord.com/)
+- [WhatsApp](https://web.whatsapp.com/)
+</details>
+
+## Team 👩‍💻
 <body>
         <div align="center">
                 <table>
