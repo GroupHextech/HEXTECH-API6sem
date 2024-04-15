@@ -1,9 +1,6 @@
 <h1 align="center">
     <img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/images/Banner_Hextech.png" alt="Logo Hextech">
 </h1>
-<p align="center">
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-</p>
 
 <h2 align="right">
         <img src="https://img.shields.io/badge/status-complete-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
