@@ -13,6 +13,12 @@
   <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint1.PNG" width="600">
 </p>
 
+## <p align="center"> Mockup
+
+<p align="center">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/sprint1.gif" width="600">
+</p>
+
 ## <p align="center"> 👦 User Stories 👧
 | Story | Why |
 | --- | --- |
