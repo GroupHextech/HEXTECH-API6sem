@@ -3,7 +3,10 @@
 # Index
 
 - [Index 📎](#index)
+- [Problem](#problem)
+- [Solution](#solution)
 - [Product Backlog](#product-backlog-)
+- [Schedule](#schedule-)
 - [Team](#team-)
 - [Utilized Technologies](#utilized-technologies-)
 
@@ -35,80 +38,106 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
 
 
-## Utilized Technologies 📉
-<details>
-<summary>Back</summary>
-<br>
+# Team 👩‍💻
 
-- [Python](https://www.python.org/)
-- [Flask](https://flask.palletsprojects.com/en/3.0.x/quickstart/)
-</details>
+<table align="justify">
+  <thead>
+    <tr>
+      <th>GitHub</th>
+      <th>Name</th>
+      <th>Position</th>
+      <th>LinkedIn</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/gilbertosantos-dev"><img src="https://avatars.githubusercontent.com/u/80331254?v=4" width="50px" height="50px" alt="Foto de Gilberto Santos"></a></td>
+      <td>Gilberto Santos</td>
+      <td>Scrum Master</td>
+      <td><a href="https://www.linkedin.com/in/devgilbertosantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Gilberto Santos"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Valdineynascimento"><img src="https://avatars.githubusercontent.com/u/71536881?v=4" width="50px" height="50px" alt="Foto de Valdiney Nascimento"></a></td>
+      <td>Valdiney Nascimento</td>
+      <td>Product Owner</td>
+      <td><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Valdiney Nascimento"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/michelrubens"><img src="https://avatars.githubusercontent.com/michelrubens" width="50px" height="50px" alt="Foto de Michel Rubens"></a></td>
+      <td>Michel Rubens</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/michelrubens"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Michel Rubens"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PatrickSouzza"><img src="https://avatars.githubusercontent.com/u/89882058?v=4" width="50px" height="50px" alt="Foto de Patrick Souza"></a></td>
+      <td>Patrick Souza</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/patricksouzza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Patrick Souza"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/HelenAlevato"><img src="https://avatars.githubusercontent.com/u/61571753?v=4" width="50px" height="50px" alt="Foto de Helen Alevato"></a></td>
+      <td>Helen Alevato</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/helenalevato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Helen Alevato"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ludmila-chagas"><img src="https://avatars.githubusercontent.com/u/81494654?v=4" width="50px" height="50px" alt="Foto de Ludmila Chagas"></a></td>
+      <td>Ludmila Chagas</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/ludmila-chagas-273548187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Ludmila Chagas"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AbraaoHenriqueVasconcelos2"><img src="https://avatars.githubusercontent.com/u/84921620?v=4" width="50px" height="50px" alt="Foto de Abraão Vasconcelos"></a></td>
+      <td>Abraão Vasconcelos</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/abra%C3%A3o-vasconcelos-492524187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Abraão Vasconcelos"></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AugustoTSantos"><img src="https://avatars.githubusercontent.com/u/77200265?v=4" width="50px" height="50px" alt="Foto de Augusto Santos"></a></td>
+      <td>Augusto Santos</td>
+      <td>Developer</td>
+      <td><a href="https://www.linkedin.com/in/augusto-torres-7919881b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Augusto Santos"></a></td>
+    </tr>
+  </tbody>
+</table>
 
-<details>
-<summary>Front</summary>
-<br>
 
-- [React](https://react.dev/)
-</details>
+# Utilized Technologies 📉
 
-<details>
-<summary>Data Base</summary>
-<br>
-
-- [MongoDB](https://www.mongodb.com/pt-br/)
-- [Mongo Atlas](https://www.mongodb.com/pt-br/atlas/database)
-- [Compass](https://www.mongodb.com/products/tools/compass)
-</details>
-
-<details>
-<summary>Others</summary>
-<br>
-
-- [GitHub](https://github.com/)
-- [Git](https://github.com/)
-- [Discord](https://discord.com/)
-- [WhatsApp](https://web.whatsapp.com/)
-</details>
-
-## Team 👩‍💻
-<body>
-        <div align="center">
-                <table>
-                <thead>
-                        <th>Scrum Master</th>
-                        <th>Product Owner</th>
-                        <th>Dev Team</th>
-                        <th>Dev Team</th>
-                        <th>Dev Team</th>
-                        <th>Dev Team</th>
-                        <th>Dev Team</th>
-                        <th>Dev Team</th>
-                <thead>
-                <tbody>
-                        <tr>
-                                <th><a href="https://github.com/gilbertosantos-dev"><img src="https://avatars.githubusercontent.com/u/80331254?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/Valdineynascimento"><img src="https://avatars.githubusercontent.com/u/71536881?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/michelrubens"><img src="https://avatars.githubusercontent.com/michelrubens" width="75px" height="75px"></a></th>
-                                <th><a href="https://github.com/PatrickSouzza"><img src="https://avatars.githubusercontent.com/u/89882058?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/HelenAlevato"><img src="https://avatars.githubusercontent.com/u/61571753?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/ludmila-chagas"><img src="https://avatars.githubusercontent.com/u/81494654?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/AbraaoHenriqueVasconcelos2"><img src="https://avatars.githubusercontent.com/u/84921620?v=4" width="75px" height="75px"/></a></th>
-                                <th><a href="https://github.com/AugustoTSantos"><img src="https://avatars.githubusercontent.com/u/77200265?v=4" width="75px" height="75px"/></a></th>
-                        </tr>
-                        <tr>
-                                <th><a href="https://www.linkedin.com/in/devgilbertosantos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/valdiney-jos%C3%A9-do-nascimento-68a136214/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/michelrubens"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/patricksouzza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/helenalevato/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/ludmila-chagas-273548187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/abra%C3%A3o-vasconcelos-492524187/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                                <th><a href="https://www.linkedin.com/in/augusto-torres-7919881b9/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></th>
-                        </tr>
-                <tbody>
-        </table>
-        </div>
-</body>
+<table>
+        <thead>
+                <tr>
+                        <th>
+                                Back 
+                        </th>
+                        <th>
+                                Front
+                        </th>
+                        <th>
+                                Database
+                        </th>
+                        <th>
+                                Others
+                        </th>
+                </tr>
+        </thead>
+        <tbody>
+                <tr>
+                        <td>
+                                <img src="https://skillicons.dev/icons?i=python,flask&perline=2" />
+                        </td>
+                        <td>
+                                <img src="https://skillicons.dev/icons?i=vite,react,materialui,vercel&perline=4" />
+                        </td>
+                        <td align="center">
+                                <img src="https://skillicons.dev/icons?i=mongodb&perline=2" />
+                        </td>
+                        <td>
+                                <img src="https://skillicons.dev/icons?i=git,github,discord&perline=10" />
+                        </td>
+                </tr>
+        </tbody>
+</table>
 
 ## [HexTech - Technology Solutions](https://github.com/GroupHextech)
 Development repository for FATEC Prof. Jessen Vidal 6th semester<br>
