@@ -10,7 +10,7 @@
 ## <p align="center"> 🗒️ Sprint Backlog 🗒️
 
 <p align="center">
-  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/Sprint1.PNG" width="600">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint1.PNG" width="600">
 </p>
 
 ## <p align="center"> Mockup
