@@ -19,17 +19,12 @@
 <p>We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
 # Product Backlog 📍
-
-<p style=left>
         
 ### Geolocated Sentiment Visualization
 
 * Visualization Panel
 * Interactive Map
 * Swagger Addition
-</p>
-
-<p style=display:flex; justify-content: rigth>
 
 ### Authentication and Session Management
 
@@ -39,7 +34,6 @@
 * User Data Deletion
 * Two-Factor Authentication
 * Session Expiry Due to Inactivity
-</p>
   
 ### Multisource Integration of Reviews
 
@@ -62,6 +56,7 @@
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
+# Product Backlog: User Stories 📍
 <p align="center">
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint1.PNG" width="400"/>
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint2.PNG" width="400"/>
