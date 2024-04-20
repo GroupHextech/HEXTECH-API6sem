@@ -20,6 +20,46 @@
 
 # Product Backlog 📍
 
+<p style=left>
+        
+### Geolocated Sentiment Visualization
+
+* Visualization Panel
+* Interactive Map
+* Swagger Addition
+</p>
+
+<p style=display:flex; justify-content: rigth>
+
+### Authentication and Session Management
+
+* User Authentication
+* User Interaction
+* Display of Customer Information
+* User Data Deletion
+* Two-Factor Authentication
+* Session Expiry Due to Inactivity
+</p>
+  
+### Multisource Integration of Reviews
+
+* Ability to process data in different languages using NLP
+* Sentiment Change Alert
+    
+### Advanced Sentiment Analysis
+* Deep Learning Initialization
+* Deep Learning Implementation
+* Deep Learning Enhancement
+  
+### Data Storage and Management
+* Database Architecture
+* Data Storage Update
+  
+### Data Visualization and Reporting
+* Filters
+* Chart Updates
+* Report Generation
+
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
 <p align="center">
