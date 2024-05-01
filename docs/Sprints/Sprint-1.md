@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/GroupHextech/HEXTECH-API5sem/blob/main/doc/images/Banner_Hextech.png" alt="Logo Hextech">
+    <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/hextechBanner.png" alt="Logo Hextech">
 </h1>
 
 <h2 align="right">
@@ -10,13 +10,13 @@
 ## <p align="center"> 🗒️ Sprint Backlog 🗒️
 
 <p align="center">
-  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint1.PNG" width="600">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint1.PNG" width="600">
 </p>
 
 ## <p align="center"> Mockup
 
 <p align="center">
-  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/sprint1.gif" width="600">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/sprint1.gif" width="600">
 </p>
 
 ## <p align="center"> 👦 User Stories 👧
@@ -31,5 +31,5 @@
 <p align="justify"> In this first sprint we where abel to deliver all we promisse, but while reseraching we realized more tasks would have to be made  </p>
 
 <p align="center">
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/brundownSprint1.png" height="350">
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/brundownSprint1.png" height="350">
 </p>

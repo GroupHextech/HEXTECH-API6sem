@@ -1,73 +1,140 @@
-![hextech_logo](./assets/images/hextech_banner.png)
+![hextech_logo](./docs/images/hextechBanner.png)
 
 # Index
 
 - [Index 📎](#index)
 - [Problem](#problem)
 - [Solution](#solution)
-- [Product Backlog](#product-backlog-)
+- [Requirements](#Requirements)
+- [Sprint Backlog](#Sprint-Backlog)
+- [Product Backlog](#Product-Backlog-)
 - [Schedule](#schedule-)
 - [Team](#team-)
 - [Utilized Technologies](#utilized-technologies-)
 
 # Problem
 
-<p>In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
+<p align="justify">In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
 
 # Solution
 
-<p>We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
+<p align="justify">We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
 
-# Product Backlog 📍
-        
-### Geolocated Sentiment Visualization
+# Requirements
 
-* Visualization Panel
-* Interactive Map
-* Swagger Addition
+### Functional
+* Geolocated Sentiment Visualization
+* Authentication and Session Management
+* Multisource Integration of Reviews
+* Advanced Sentiment Analysis
+* Data Storage and Management
+* Data Visualization and Reporting
 
-### Authentication and Session Management
-
-* User Authentication
-* User Interaction
-* Display of Customer Information
-* User Data Deletion
-* Two-Factor Authentication
-* Session Expiry Due to Inactivity
-  
-### Multisource Integration of Reviews
-
-* Ability to process data in different languages using NLP
-* Sentiment Change Alert
-    
-### Advanced Sentiment Analysis
-* Deep Learning Initialization
-* Deep Learning Implementation
-* Deep Learning Enhancement
-  
-### Data Storage and Management
-* Database Architecture
-* Data Storage Update
-  
-### Data Visualization and Reporting
-* Filters
-* Chart Updates
-* Report Generation
+### Non-Functional
+* Compliance and Reporting
+* Interoperability and Security
+* Performance and Scalability
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
-# Product Backlog: User Stories 📍
+
+# Sprint Backlog:
 <p align="center">
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint1.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint2.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint3.PNG" width="400"/>
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/assets/images/ASprint4.PNG" width="400"/>
+        <img src=./docs/images/Sprint1.PNG width="400"/>
+        <img src=./docs/images/Sprint2.PNG width="400"/>
+        <img src=./docs/images/Sprint3.PNG width="400"/>
+        <img src=./docs/images/Sprint4.PNG width="400"/>
+
+# Product Backlog 📍
+<table align="justify">
+  <thead>
+    <tr>
+      <th>Rank</th>
+      <th>Priority</th>
+      <th>User Story</th>
+      <th>Estimate</th>
+      <th>Sprint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Alto</td>
+      <td align="justify">As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Alto</td>
+      <td align="justify">As a system administrator, I want to explore sentiment data on a map to identify areas with high or low concentration of sentiment.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Alto</td>
+      <td align="justify">As an administrator, I want a database structure to store sentiment data and location information in an efficient and scalable way.</td>
+      <td>1</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Alto</td>
+      <td align="justify">As a system administrator, I want to visualize sentiment data in different formats such as line, bar, or pie charts to get a more complete view of its distribution.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Alto</td>
+      <td align="justify">As a system administrator, I want to filter sentiment data by time period to analyze trends over time.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>Alto</td>
+      <td align="justify">As an administrator, I want customer comments to be classified into positive, neutral and negative automatically to facilitate analysis.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>Alto</td>
+      <td align="justify">As a user, I want to view the sentiment analysis results in the visualization dashboard to get a deeper understanding of the sentiments expressed in the data.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>Médio</td>
+      <td align="justify">As an administrator, I want other personnel who need to operate the system to register in the system using name, email and password to ensure that unauthorized access does not occur and thus guarantee the security of data and users.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>Médio</td>
+      <td align="justify">As a system operator, I want to access the system using the login “CPF or employee registration number” and a password.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>Médio</td>
+      <td align="justify">As a system operator, I want to view my account information such as name, email and registration date.</td>
+      <td>1</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table>
         
 # Schedule 🗓
 | *Sprints*  | *Date* | *README*  |
 | ---------- | -------------- | ------ | 
 |  Kick-Off  | 11/03 to 24/03 | *N/A* | 
-|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/assets/Sprint1rd) |
+|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints) |
 |  Sprint 2  | 15/04 to 05/05 | [View]() | 
 |  Sprint 3  | 06/05 to 26/05 | [View]() | 
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
