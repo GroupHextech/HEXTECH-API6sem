@@ -14,11 +14,11 @@
 
 # Problem
 
-<p align="justify">In the heart of the digital age, where every interaction leaves a digital footprint, emerges the critical need to not only collect but deeply understand the voices of customers. Online reviews have become a treasure trove of insights, reflecting the satisfaction, expectations, and sometimes the disappointments of consumers.</p>
+<p align="justify">In an increasingly competitive market, understanding the nuances of customer desires becomes crucial to success. Online reviews, in this context, take the form of a treasure trove of insights, revealing consumers' satisfaction, expectations and, at times, frustrations. Given this scenario, this semester's challenge is the development of an innovative application that, using artificial intelligence, performs an in-depth analysis of these comments, classifying them as positive, neutral and negative. By integrating this data into the database, it will be possible to extract valuable insights that will drive strategic decision-making and improve the customer experience.</p>
 
 # Solution
 
-<p align="justify">We offer the HexAnalytics a webpag where, inicinitially we are gonna offer relevant graphs for insigths with the available data while we train a AI for more concrete data on customers feelings.</p>
+<p align="justify">Our proposal is HexAnalytics, a platform that will automatically analyze comments, classifying them as positive, neutral and negative. The results of this analysis will be integrated into the database and the platform will present relevant graphical dashboards for valuable insights into customer data and feelings.</p>
 
 # Requirements
 
