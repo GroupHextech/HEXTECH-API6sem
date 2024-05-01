@@ -135,7 +135,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 | ---------- | -------------- | ------ |
 |  Kick-Off  | 11/03 to 24/03 | *N/A* |
 |  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-1.md) |
-|  Sprint 2  | 15/04 to 05/05 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-2.md) |
+|  Sprint 2  | 15/04 to 05/05 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-2.md) | 
 |  Sprint 3  | 06/05 to 26/05 | [View]() |
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
 
