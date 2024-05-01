@@ -109,21 +109,21 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     <tr>
       <td>8</td>
       <td>Médio</td>
-      <td align="justify">As an administrator, I want other personnel who need to operate the system to register in the system using name, email and password to ensure that unauthorized access does not occur and thus guarantee the security of data and users.</td>
+      <td align="justify">As an administrator, I want other personnel who need to operate the system to register and access the system using login and password to ensure that unauthorized access does not occur and thus guarantee the security of data and users.</td>
       <td>1</td>
       <td>2</td>
     </tr>
     <tr>
       <td>9</td>
       <td>Médio</td>
-      <td align="justify">As a system operator, I want to access the system using the login “CPF or employee registration number” and a password.</td>
+      <td align="justify">As a system operator, I want to have access to all the data to analyze and get insights that helped my managers in decision making.</td>
       <td>1</td>
       <td>2</td>
     </tr>
     <tr>
       <td>10</td>
       <td>Médio</td>
-      <td align="justify">As a system operator, I want to view my account information such as name, email and registration date.</td>
+      <td align="justify">As a system operator, I want to view my registration account information to keep it up to date.</td>
       <td>1</td>
       <td>2</td>
     </tr>
@@ -132,11 +132,11 @@ It was decided that the project would be divided into 4 deliveries, throughout t
         
 # Schedule 🗓
 | *Sprints*  | *Date* | *README*  |
-| ---------- | -------------- | ------ | 
-|  Kick-Off  | 11/03 to 24/03 | *N/A* | 
-|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints) |
-|  Sprint 2  | 15/04 to 05/05 | [View]() | 
-|  Sprint 3  | 06/05 to 26/05 | [View]() | 
+| ---------- | -------------- | ------ |
+|  Kick-Off  | 11/03 to 24/03 | *N/A* |
+|  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-1.md) |
+|  Sprint 2  | 15/04 to 05/05 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-2.md) |
+|  Sprint 3  | 06/05 to 26/05 | [View]() |
 |  Sprint 4  | 27/05 to 16/06 | [View]() |
 
 
