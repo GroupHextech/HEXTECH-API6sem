@@ -37,14 +37,6 @@
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
-
-# Sprint Backlog:
-<p align="center">
-        <img src=./docs/images/Sprint1.PNG width="400"/>
-        <img src=./docs/images/Sprint2.PNG width="400"/>
-        <img src=./docs/images/Sprint3.PNG width="400"/>
-        <img src=./docs/images/Sprint4.PNG width="400"/>
-
 # Product Backlog 📍
 <table align="justify">
   <thead>
@@ -129,6 +121,13 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     </tr>
   </tbody>
 </table>
+
+# Sprint Backlog:
+<p align="center">
+        <img src=./docs/images/Sprint1.PNG width="400"/>
+        <img src=./docs/images/Sprint2.PNG width="400"/>
+        <img src=./docs/images/Sprint3.PNG width="400"/>
+        <img src=./docs/images/Sprint4.PNG width="400"/>
         
 # Schedule 🗓
 | *Sprints*  | *Date* | *README*  |
