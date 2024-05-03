@@ -232,6 +232,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
                         </td>
                         <td align="center">
                                 <img src="https://skillicons.dev/icons?i=mongodb&perline=2" />
+                                <img src="https://skillicons.dev/icons?i=firebase&perline=2" />
                         </td>
                         <td>
                                 <img src="https://skillicons.dev/icons?i=git,github,discord&perline=10" />
