@@ -8,4 +8,4 @@
 
 ### Sprints folder:
 
-*I n the Sprints folder you will find specific information about what occurred in each sprint of the project.
+* I n the Sprints folder you will find specific information about what occurred in each sprint of the project.
