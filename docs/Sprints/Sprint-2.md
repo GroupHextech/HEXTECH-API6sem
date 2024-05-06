@@ -16,7 +16,7 @@
 ## <p align="center"> Mockup
 
 <p align="center">
-  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/sprint1.gif" width="600">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint2.gif" width="600">
 </p>
 
 ## <p align="center"> 👦 User Stories 👧
@@ -60,7 +60,7 @@
 </table>
 
 ## <p align="center"> *Burndown* 📉
-<p align="justify"> In this first sprint we where abel to deliver all we promisse, but while reseraching we realized more tasks would have to be made  </p>
+<p align="justify"> In this second sprint we delivered everything that was promised, during development we realized the need to include more tasks, as can be seen in our burndown.</p>
 
 <p align="center">
         <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/brundownSprint1.png" height="350">
