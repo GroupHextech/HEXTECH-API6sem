@@ -60,8 +60,9 @@
 </table>
 
 ## <p align="center"> *Burndown* 📉
+
 <p align="justify"> In this second sprint we delivered everything that was promised, during development we realized the need to include more tasks, as can be seen in our burndown.</p>
 
 <p align="center">
-        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/brundownSprint1.png" height="350">
+        <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/brundownSprint2.png" height="350">
 </p>
