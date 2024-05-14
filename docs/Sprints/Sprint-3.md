@@ -1,4 +1,8 @@
 <h1 align="center">
+    <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/emConstrucao.png" width="1000" height="600">
+</h1>
+
+<h1 align="center">
     <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/hextechBanner.png" alt="Logo Hextech">
 </h1>
 
