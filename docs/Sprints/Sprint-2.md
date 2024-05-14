@@ -4,7 +4,7 @@
 
 <h2 align="right">
         <img src="https://img.shields.io/badge/status-complete-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
-        <img src="https://img.shields.io/badge/sprint-1-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
+        <img src="https://img.shields.io/badge/sprint-2-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
 </h2>
 
 ## <p align="center"> 🗒️ Sprint Backlog 🗒️
