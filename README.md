@@ -23,17 +23,17 @@
 # Requirements
 
 ### Functional
-* Geolocated Sentiment Visualization
-* Authentication and Session Management
-* Multisource Integration of Reviews
-* Advanced Sentiment Analysis
-* Data Storage and Management
-* Data Visualization and Reporting
+* Geolocated Sentiment Visualization (RF01)
+* Authentication and Session Management (RF02)
+* Multisource Integration of Reviews (RF03)
+* Advanced Sentiment Analysis (RF04)
+* Data Storage and Management (RF05)
+* Data Visualization and Reporting (RF06)
 
 ### Non-Functional
-* Compliance and Reporting
-* Interoperability and Security
-* Performance and Scalability
+* Compliance and Security (RNF-01)
+* Interoperability and Integration (RNF-02)
+* Performance and Scalability (RNF-03)
 
 It was decided that the project would be divided into 4 deliveries, throughout the sprints it will be updated and modified as the deliveries progress.
 
@@ -52,7 +52,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     <tr>
       <td>1</td>
       <td>Alto</td>
-      <td align="justify">As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.</td>
+      <td align="justify">As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.(RF06)</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -135,8 +135,8 @@ It was decided that the project would be divided into 4 deliveries, throughout t
 |  Kick-Off  | 11/03 to 24/03 | *N/A* |
 |  Sprint 1  | 25/03 to 14/04 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-1.md) |
 |  Sprint 2  | 15/04 to 05/05 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-2.md) | 
-|  Sprint 3  | 06/05 to 26/05 | [View]() |
-|  Sprint 4  | 27/05 to 16/06 | [View]() |
+|  Sprint 3  | 06/05 to 26/05 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-3.md) |
+|  Sprint 4  | 27/05 to 16/06 | [View](https://github.com/GroupHextech/HEXTECH-API6sem/tree/main/docs/Sprints/Sprint-4.md) |
 
 
 # Team 👩‍💻
