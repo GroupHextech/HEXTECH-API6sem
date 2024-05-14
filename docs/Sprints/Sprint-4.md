@@ -1,16 +1,20 @@
 <h1 align="center">
+    <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/emConstrucao.png" width="1000" height="600">
+</h1>
+
+<h1 align="center">
     <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/hextechBanner.png" alt="Logo Hextech">
 </h1>
 
 <h2 align="right">
-        <img src="https://img.shields.io/badge/status-working-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
-        <img src="https://img.shields.io/badge/sprint-3-blue?style=for-the-badge&logo=appveyor" alt="Second= sprint">
+        <img src="https://img.shields.io/badge/status-future-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
+        <img src="https://img.shields.io/badge/sprint-4-blue?style=for-the-badge&logo=appveyor" alt="Fourth= sprint">
 </h2>
 
 ## <p align="center"> 🗒️ Sprint Backlog 🗒️
 
 <p align="center">
-  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint3.PNG" width="600">
+  <img src="https://github.com/GroupHextech/HEXTECH-API6sem/blob/main/docs/images/Sprint4.PNG" width="600">
 </p>
 
 ## <p align="center"> Mockup
