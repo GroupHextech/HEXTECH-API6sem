@@ -23,12 +23,12 @@
 # Requirements
 
 ### Functional
-* Geolocated Sentiment Visualization (RF01)
-* Authentication and Session Management (RF02)
-* Multisource Integration of Reviews (RF03)
-* Advanced Sentiment Analysis (RF04)
-* Data Storage and Management (RF05)
-* Data Visualization and Reporting (RF06)
+* Geolocated Sentiment Visualization (RF-01)
+* Authentication and Session Management (RF-02)
+* Multisource Integration of Reviews (RF-03)
+* Advanced Sentiment Analysis (RF-04)
+* Data Storage and Management (RF-05)
+* Data Visualization and Reporting (RF-06)
 
 ### Non-Functional
 * Compliance and Security (RNF-01)
@@ -52,7 +52,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     <tr>
       <td>1</td>
       <td>Alto</td>
-      <td align="justify">As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.(RF06)</td>
+      <td align="justify">As a system administrator, I want a platform with dashboards to visualize the data that my institution has and understand the general opinion in different regions, thereby obtaining insights that will help my managers in making decisions and improving the customer experience.(RF-06)</td>
       <td>1</td>
       <td>1</td>
     </tr>
@@ -118,6 +118,41 @@ It was decided that the project would be divided into 4 deliveries, throughout t
       <td align="justify">As a system operator, I want to view my registration account information to keep it up to date.</td>
       <td>1</td>
       <td>2</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>Médio</td>
+      <td align="justify">As a developer, I try to keep the version of the machine learning (ML) model always up to date, in order to provide my client with the best possible analysis experience.</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Médio</td>
+      <td align="justify">As a system operator, I want to view my profile information, such as name, email and registration date, to have quick access to my data.</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Médio</td>
+      <td align="justify">As an administrator, I want to view information for all users on the system to manage accounts and access.</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Médio</td>
+      <td align="justify">As a system operator, I want to delete my account and data from the system if I no longer wish to use the service.</td>
+      <td>1</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Médio</td>
+      <td align="justify">As an administrator, I want to generate custom reports with user and sentiment data to analyze user behavior and identify trends.</td>
+      <td>1</td>
+      <td>3</td>
     </tr>
   </tbody>
 </table>
