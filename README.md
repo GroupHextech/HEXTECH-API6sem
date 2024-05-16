@@ -150,7 +150,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     <tr>
       <td>15</td>
       <td>Médio</td>
-      <td align="justify">As an administrator, I want to generate custom reports with user and sentiment data to analyze user behavior and identify trends.</td>
+      <td align="justify">As an administrator, I want to generate custom reports with user and sentiment data to analyze user behavior and identify trends that will be used to gain insights.</td>
       <td>1</td>
       <td>3</td>
     </tr>
