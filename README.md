@@ -154,6 +154,41 @@ It was decided that the project would be divided into 4 deliveries, throughout t
       <td>1</td>
       <td>3</td>
     </tr>
+    <tr>
+      <td>16</td>
+      <td>Médio</td>
+      <td align="justify">RF-04: As a developer, I try to keep the version of the machine learning (ML) model updated in order to provide my client with the best possible analysis experience, this being the last one for final delivery.</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Médio</td>
+      <td align="justify">RF-02: As a user of the system, I want to register my phone number and  receive a security code via SMS, so that I can have an additional layer of security and thus have another way to verify my identity when accessing my account.</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Médio</td>
+      <td align="justify">RF-06: As a system developer, I want to have copies of data to ensure recovery of improperly deleted data and that changes to system user information meet LGPD requirements.</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Médio</td>
+      <td align="justify">RNF-02: As a user, I want to have access to a button that allows me to select a CSV file on my computer so I can import data into the application and insert it into the database and finally carry out the analysis.</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>Médio</td>
+      <td align="justify">RF-06: As a manager, I want to receive alerts about changes in customer sentiment patterns towards products, so I can anticipate and make the necessary adjustments to improve our customers' experience.</td>
+      <td>1</td>
+      <td>4</td>
+    </tr>
   </tbody>
 </table>
 
