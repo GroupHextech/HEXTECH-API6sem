@@ -177,7 +177,7 @@ It was decided that the project would be divided into 4 deliveries, throughout t
     </tr>
     <tr>
       <td>19</td>
-      <td>Médio</td>
+      <td>Baixo</td>
       <td align="justify">RNF-02: As a user, I want to have access to a button that allows me to select a CSV file on my computer so I can import data into the application and insert it into the database and finally carry out the analysis.</td>
       <td>1</td>
       <td>4</td>
