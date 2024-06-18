@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="right">
-        <img src="https://img.shields.io/badge/status-working-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
+        <img src="https://img.shields.io/badge/status-complete-blue?style=for-the-badge&logo=appveyor" alt="Status: Ongoing">   
         <img src="https://img.shields.io/badge/sprint-4-blue?style=for-the-badge&logo=appveyor" alt="Fourth= sprint">
 </h2>
 
